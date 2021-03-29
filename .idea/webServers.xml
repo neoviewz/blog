@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8af2056a-71f4-4ef0-b192-e6a6373be545" name="neoviewz" url="http://www.neoviewz.fun">
+        <fileTransfer accessType="SFTP" host="135.125.235.144" port="22" sshConfigId="4e36164c-5f0c-4af3-a994-ea950b6695d3" sshConfig="darkside95fr@135.125.235.144:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
